@@ -1,0 +1,479 @@
+In file:
+    Chars 1509
+    Lines   26
+    Words  272
+
+Contents:
+
+call
+me
+ishmael
+some
+years
+ago
+never
+mind
+how
+long
+precisely
+having
+little
+or
+no
+money
+in
+my
+purse
+and
+nothing
+particular
+to
+interest
+me
+on
+shore
+i
+thought
+i
+would
+sail
+about
+a
+little
+and
+see
+the
+watery
+part
+of
+the
+world
+it
+is
+a
+way
+i
+have
+of
+driving
+off
+the
+spleen
+and
+regulating
+the
+circulation
+whenever
+i
+find
+myself
+growing
+grim
+about
+the
+mouth
+whenever
+it
+is
+a
+damp
+drizzly
+november
+in
+my
+soul
+whenever
+i
+find
+myself
+involuntarily
+pausing
+before
+coffin
+warehouses
+and
+bringing
+up
+the
+rear
+of
+every
+funeral
+i
+meet
+and
+especially
+whenever
+my
+hypos
+get
+such
+an
+upper
+hand
+of
+me
+that
+it
+requires
+a
+strong
+moral
+principle
+to
+prevent
+me
+from
+deliberately
+stepping
+into
+the
+street
+and
+methodically
+knocking
+people
+s
+hats
+off
+then
+i
+account
+it
+high
+time
+to
+get
+to
+sea
+as
+soon
+as
+i
+can
+this
+is
+my
+substitute
+for
+pistol
+and
+ball
+with
+a
+philosophical
+flourish
+cato
+throws
+himself
+upon
+his
+sword
+i
+quietly
+take
+to
+the
+ship
+there
+is
+nothing
+surprising
+in
+this
+if
+they
+but
+knew
+it
+almost
+all
+men
+in
+their
+degree
+some
+time
+or
+other
+cherish
+very
+nearly
+the
+same
+feelings
+towards
+the
+ocean
+with
+me
+there
+now
+is
+your
+insular
+city
+of
+the
+manhattoes
+belted
+round
+by
+wharves
+as
+indian
+isles
+by
+coral
+reefs
+commerce
+surrounds
+it
+with
+her
+surf
+right
+and
+left
+the
+streets
+take
+you
+waterward
+its
+extreme
+downtown
+is
+the
+battery
+where
+that
+noble
+mole
+is
+washed
+by
+waves
+and
+cooled
+by
+breezes
+which
+a
+few
+hours
+previous
+were
+out
+of
+sight
+of
+land
+look
+at
+the
+crowds
+of
+water
+gazers
+there
+
+Count by words:
+
+call => 1
+me => 5
+ishmael => 1
+some => 2
+years => 1
+ago => 1
+never => 1
+mind => 1
+how => 1
+long => 1
+precisely => 1
+having => 1
+little => 2
+or => 2
+no => 1
+money => 1
+in => 4
+my => 4
+purse => 1
+and => 9
+nothing => 2
+particular => 1
+to => 5
+interest => 1
+on => 1
+shore => 1
+i => 9
+thought => 1
+would => 1
+sail => 1
+about => 2
+a => 6
+see => 1
+the => 14
+watery => 1
+part => 1
+of => 8
+world => 1
+it => 6
+is => 7
+way => 1
+have => 1
+driving => 1
+off => 2
+spleen => 1
+regulating => 1
+circulation => 1
+whenever => 4
+find => 2
+myself => 2
+growing => 1
+grim => 1
+mouth => 1
+damp => 1
+drizzly => 1
+november => 1
+soul => 1
+involuntarily => 1
+pausing => 1
+before => 1
+coffin => 1
+warehouses => 1
+bringing => 1
+up => 1
+rear => 1
+every => 1
+funeral => 1
+meet => 1
+especially => 1
+hypos => 1
+get => 2
+such => 1
+an => 1
+upper => 1
+hand => 1
+that => 2
+requires => 1
+strong => 1
+moral => 1
+principle => 1
+prevent => 1
+from => 1
+deliberately => 1
+stepping => 1
+into => 1
+street => 1
+methodically => 1
+knocking => 1
+people => 1
+s => 1
+hats => 1
+then => 1
+account => 1
+high => 1
+time => 2
+sea => 1
+as => 3
+soon => 1
+can => 1
+this => 2
+substitute => 1
+for => 1
+pistol => 1
+ball => 1
+with => 3
+philosophical => 1
+flourish => 1
+cato => 1
+throws => 1
+himself => 1
+upon => 1
+his => 1
+sword => 1
+quietly => 1
+take => 2
+ship => 1
+there => 3
+surprising => 1
+if => 1
+they => 1
+but => 1
+knew => 1
+almost => 1
+all => 1
+men => 1
+their => 1
+degree => 1
+other => 1
+cherish => 1
+very => 1
+nearly => 1
+same => 1
+feelings => 1
+towards => 1
+ocean => 1
+now => 1
+your => 1
+insular => 1
+city => 1
+manhattoes => 1
+belted => 1
+round => 1
+by => 4
+wharves => 1
+indian => 1
+isles => 1
+coral => 1
+reefs => 1
+commerce => 1
+surrounds => 1
+her => 1
+surf => 1
+right => 1
+left => 1
+streets => 1
+you => 1
+waterward => 1
+its => 1
+extreme => 1
+downtown => 1
+battery => 1
+where => 1
+noble => 1
+mole => 1
+washed => 1
+waves => 1
+cooled => 1
+breezes => 1
+which => 1
+few => 1
+hours => 1
+previous => 1
+were => 1
+out => 1
+sight => 1
+land => 1
+look => 1
+at => 1
+crowds => 1
+water => 1
+gazers => 1
+
+Top start:
+
+involuntarily => 1
+philosophical => 1
+deliberately => 1
+methodically => 1
+circulation => 1
+
+Top end:
+
+the => 14
+i => 9
+and => 9
+of => 8
+is => 7
