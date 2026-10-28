@@ -24,7 +24,8 @@ def __parse_number(number):
         if node_current:
             if node_current['type'] == node['type']:
                 quantifier = node_current['quantifier']
-                quantifier_rank = 10 ** (floor(log(quantifier, 10)) + 1)
+                quantifier_power = floor(log(quantifier, 10))
+                quantifier_rank = 10 ** (quantifier_power + 1)
                 node_current['quantifier'] = digit * quantifier_rank + quantifier
             else:
                 node['child'] = node_current
@@ -44,27 +45,28 @@ def __render(parsed):
 
     while current:
         type_ = current['type']
+        child = current['child']
         quantifier = current['quantifier']
+        quantifier_powered = quantifier * 10
 
         if type_ in numbers_complex:
             result.append(number_to_word(quantifier))
             result.append(type_)
 
         if type_ == 'ten':
-            parsed_digit = current['child']
-            digit_quantifier = parsed_digit['quantifier']
-            number = quantifier * 10 + digit_quantifier
+            quantifier_child = child['quantifier']
+            number = quantifier_powered + quantifier_child
 
             if number in numbers_simple:
                 result.append(numbers_simple[number])
                 break
-            elif quantifier * 10 in numbers_simple:
-                result.append(numbers_simple[quantifier * 10])
+            elif quantifier_powered in numbers_simple:
+                result.append(numbers_simple[quantifier_powered])
 
         if type_ == 'digit' and quantifier in numbers_simple:
             result.append(numbers_simple[quantifier])
 
-        current = current['child']
+        current = child
 
     return ' '.join(result)
 
@@ -115,9 +117,10 @@ numbers_simple = {
     90: 'ninety',
 }
 
+
 numbers_complex = set(['trillion', 'billion', 'million', 'thousand', 'hundred'])
 
 
 __run = __name__ == '__main__'
 if __run:
-    print(number_to_word(23123123123))
+    print(number_to_word(1555550))
